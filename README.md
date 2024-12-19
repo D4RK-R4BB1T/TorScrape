@@ -27,7 +27,7 @@ GO TO ANY PAGE, PRESS CTRL S AND SELECT "WEB PAGE COMPLETE" AND NOT "WEB PAGE, H
 7. Sit back, Relax and pay attention to your script
 8. Check files
 
-WINDOWS USERS: It's C:// not C:\ please ensure your pathing is correct.
+WINDOWS USERS: It's C:\\PATH\\TO\YOUR\\X not C:\ please ensure your pathing is correct. (X = WHATEVER YOU'D WANT IT TO BE)
 
 ## Extra tips & Info:
 1. Use [Link Gopher](http://https://addons.mozilla.org/en-US/firefox/addon/link-gopher/ "Link Gopher") (I know extentions and tor are bad but you're not doing anything illegal) Just make sure you enable "Allow in Private Tabs" or this won't work
@@ -40,7 +40,7 @@ WINDOWS USERS: It's C:// not C:\ please ensure your pathing is correct.
 
 5. Logins & Protected content you can actually bypaass this because if you're authorized/having an account on something it does work. Now DRM and HLS Content may not render or be saved there is tools for this and we do have a working one that Utilizes BS4 to deal with it some specific HTML snippits using BS4 and RE to target and begin downloading MP4 files amongst other things.
 
-Known issues:
+# Known issues:
 - May Double Save (Increase time/pay attention to it)
 - Can sometimes attempt to save despite having numerous file explorer tabs open leading to a mass confussion 
 - May attempt to save the first page instead of loading the correct page
