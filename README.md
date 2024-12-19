@@ -27,7 +27,7 @@ GO TO ANY PAGE, PRESS CTRL S AND SELECT "WEB PAGE COMPLETE" AND NOT "WEB PAGE, H
 7. Sit back, Relax and pay attention to your script
 8. Check files
 
-WINDOWS USERS: It's THERE IS A DOUBLE SLASH IN THE PATHING E.G. C:\\ C:\ please ensure your pathing is correct. (X = WHATEVER YOU'D WANT IT TO BE)
+WINDOWS USERS: It's THERE IS A DOUBLE SLASH IN THE PATHING E.G. C:\ \ (I ADDED A SPACE BC GITHUB ISN'T COOPERATING) NOT C:\ please ensure your pathing is correct. (X = WHATEVER YOU'D WANT IT TO BE)
 
 ## Extra tips & Info:
 1. Use [Link Gopher](http://https://addons.mozilla.org/en-US/firefox/addon/link-gopher/ "Link Gopher") (I know extentions and tor are bad but you're not doing anything illegal) Just make sure you enable "Allow in Private Tabs" or this won't work
